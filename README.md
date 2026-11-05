@@ -8,7 +8,7 @@
 - [Credit-Card-Customer-Behavior-K-Means](https://github.com/tylerwang26/Credit-Card-Customer-Behavior-K-Means) - 青年信用卡客戶行為 K-Means 分群與推薦
 - [Fintech_HW4](https://github.com/tylerwang26/Fintech_HW4) - 金融科技作業:已知未來價格下的最佳股票交易策略
 - [Intro_to_AI_HW2-2](https://github.com/tylerwang26/Intro_to_AI_HW2-2) - 人工智慧導論 HW2-2
-- [AI_thesis_reading_helper](https://github.com/tylerwang26/AI_thesis_reading_helper) - AI 論文閱讀助手
+- [AI_thesis_reading_helper](https://github.com/tylerwang26/AI_thesis_reading_helper) - Atelier 文獻 PDF 助讀系統
 - [Thesis_Guidance_MVP](https://github.com/tylerwang26/Thesis_Guidance_MVP) - 學生－指導教授非同步論文指導系統 MVP
 
 ## 📈 量化交易與金融
@@ -28,7 +28,7 @@
 - [myth-assistant](https://github.com/tylerwang26/myth-assistant) & [Myth-Spark1](https://github.com/tylerwang26/Myth-Spark1) - Myth 個人 AI 助手(本地開源 LLM)與辦公室 DGX Spark 版框架
 - [ai-compress](https://github.com/tylerwang26/ai-compress) - AI 圖片壓縮(GPT-4o Vision + DALL-E 3)
 - [pptx-processor](https://github.com/tylerwang26/pptx-processor) - Markdown 轉 PPTX 的 Flask API
-- [memory-ops](https://github.com/tylerwang26/memory-ops) - 記憶與向量檢索
+- [memory-ops](https://github.com/tylerwang26/memory-ops) - OpenClaw 記憶優化系統
 - [i-chat](https://github.com/tylerwang26/i-chat) - 互動式聊天介面(按鈕、artifact、繪圖、語音、圖片影片生成),補足 Telegram 的不足
 
 ## 🗄️ 系統生態與網站應用
@@ -40,7 +40,7 @@ Twai 生態系核心、基礎設施、儀表板與各式工具。
 - [novel-reader](https://github.com/tylerwang26/novel-reader) - 墨聲:小說朗讀系統(Cloudflare Workers + zh-TW TTS)
 - [clawnotes](https://github.com/tylerwang26/clawnotes) - OpenClaw 上的對話與筆記系統
 - [artifact-UI-design](https://github.com/tylerwang26/artifact-UI-design) - UI 設計探索
-- [trip-palau](https://github.com/tylerwang26/trip-palau) & [tokyo](https://github.com/tylerwang26/tokyo) - 旅遊行程(帛琉潛水五日行、東京)
+- [trip-palau](https://github.com/tylerwang26/trip-palau) & [tokyo](https://github.com/tylerwang26/tokyo) - 旅遊規劃:帛琉潛水五日行,以及東京旅遊規劃網站(Vite + Supabase)
 - [Workspace_obsidian_vault](https://github.com/tylerwang26/Workspace_obsidian_vault) - Obsidian Vault
 - [openclaw-config-backup](https://github.com/tylerwang26/openclaw-config-backup) - OpenClaw 設定備份
 - [zeabur_dockerfile](https://github.com/tylerwang26/zeabur_dockerfile) - Zeabur 部署用 Dockerfile 設定
